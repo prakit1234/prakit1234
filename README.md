@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Prakit Chetia!
 
-![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif))
 
 I'm **Prakit Chetia**, a passionate **teenager** who’s always excited to dive into coding. Currently in **Standard 7**, I’ve already worked on numerous projects and have been honing my skills as a **web designer** and **Roblox scripter/designer**. 🎮🌐
 
@@ -48,7 +48,7 @@ My friend is doing something amazing but is having financial issues, and if you 
 
 [**Donate Here**](#) 🙏
 
-**i will give**
+---------
 
 ## 📫 **Contact Me**:
 If you want to connect or check out more of my work, here’s how you can reach me:
