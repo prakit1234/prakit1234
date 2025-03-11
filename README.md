@@ -7,7 +7,7 @@ I'm **Prakit Chetia**, a passionate **teenager** who’s always excited to dive 
 ---
 
 ## 🚀 **About Me**:
-- 🎓 **Standard**: 7
+- 🎓 **Standard**: 8
 - 🧑‍💻 **Former Web Designer**: Crafted sleek, aesthetic web designs.
 - 🎮 **Roblox Scripter**: Brought creative game ideas to life through coding.
 - 🛠️ **Project Enthusiast**: Constantly working on new projects and learning new skills.
