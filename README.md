@@ -1,56 +1,68 @@
-# Hi there! 👋 I'm Prakit Chetia!
+# Hi, I'm Prakit!
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif))
+I'm an 8th-grade student with a focus on web development. I have experience in both front-end and back-end technologies.
 
-I'm **Prakit Chetia**, a passionate **teenager** who’s always excited to dive into coding. Currently in **Standard 7**, I’ve already worked on numerous projects and have been honing my skills as a **web designer** and **Roblox scripter/designer**. 🎮🌐
+## Primary Skills
 
----
+**Front-End:**
 
-## 🚀 **About Me**:
-- 🎓 **Standard**: 8
-- 🧑‍💻 **Former Web Designer**: Crafted sleek, aesthetic web designs.
-- 🎮 **Roblox Scripter**: Brought creative game ideas to life through coding.
-- 🛠️ **Project Enthusiast**: Constantly working on new projects and learning new skills.
-- 💻 **Tech Lover**: I enjoy coding and exploring new technologies that push my creative boundaries.
+* HTML
+* CSS
+* JavaScript (JS)
+* TypeScript (TS)
+* Svelte
+* SvelteKit
+* React
+* React.js
+* Next.js
 
----
+**Back-End:**
 
-## 💡 **What I Do**:
-![Design GIF](https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif)
+* Node.js
+* SQL
+* NeonDB
+* SQLite
+* PostgreSQL
+* Firebase
+* Supabase
 
-I'm always on a quest for knowledge! Whether it’s developing websites, scripting for games, or tinkering with new ideas, I’m committed to expanding my skills. I love:
-- **Building Websites** 🖥️
-- **Creating Games in Roblox** 🎮
-- **Learning New Programming Languages** 👨‍💻
+## Intermediate Skills
 
----
+* C++
+* C
+* Python
+* Lua
+* LuaC
 
-## 🛠️ **Languages & Tools I Use**:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+## Experience
 
----
+* **PD Enterprises:** [https://pd-enterprise.pages.dev](https://pd-enterprise.pages.dev)
+* **Appleware:** [https://appleware.dev/](https://appleware.dev/) (Website development)
 
-## ✨ **Projects & Achievements**:
-- 💻 Developed several **web applications** with sleek designs and high functionality.
-- 🎮 **Roblox scripting** expert: Created custom game elements and unique user experiences.
-- ⚙️ **Constant Learner**: Continuously learning new programming languages and frameworks to improve my craft.
-- 🌟 **Collaborator**: Enjoy working in teams and collaborating on exciting new projects!
+I'm currently working on personal projects using my own equipment.
 
----
+## Successful Projects
 
-## 💖 **Support My Friend Produmya**:
-My friend is doing something amazing but is having financial issues, and if you would like to show support, please consider donating via the link below:
+Here are some projects I've developed:
 
-[**Donate Here**](#) 🙏
+* **Virtual-Pets (Discord Bot):** [https://github.com/prakit1234/Virtual-Pet-Breeder](https://github.com/prakit1234/Virtual-Pet-Breeder)
+* **Cloudsapphire-neo (Website):** [https://github.com/prakit1234/cloudsapphire-neo](https://github.com/prakit1234/cloudsapphire-neo)
+* **Akhankhya-ai (Website):** [https://github.com/prakit1234/akhankhya-ai](https://github.com/prakit1234/akhankhya-ai)
+* **Grade-ai (Website, Origin - PD Enterprises):** [https://github.com/PD-Enterprise/Grade-AI](https://github.com/PD-Enterprise/Grade-AI)
+* **Ronak-Os (Website):** [https://github.com/prakit1234/Ronak-Os](https://github.com/prakit1234/Ronak-Os)
+* **Cnotes (Website, Origin - PD Enterprises):** [https://github.com/PD-Enterprise/cnotes](https://github.com/PD-Enterprise/cnotes)
+* **Appleware (Website, Origin - Appleware):** Source code not publicly available due to Appleware's privacy policy.
 
----------
+## Contact
 
-## 📫 **Contact Me**:
-If you want to connect or check out more of my work, here’s how you can reach me:
-- **Email**: kaliaraps@gmail.com
-- **Instagram**: [@prakit_chetia](https://www.instagram.com/zen_ka.1/)
+If you'd like to reach out, you can contact me through:
+
+* **Discord:** xtro\_kai
+* **Email:** prakitchetia@gmail.com
+
+## Support
+
+If you'd like to support my work, you can do so through:
+
+* **PayPal:** \[your\_paypal\_account]
+* **Buy Me a Coffee:** \[your\_buymeacoffee\_account]
