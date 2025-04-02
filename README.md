@@ -1,4 +1,4 @@
-# Hi, I'm Prakit!
+# Hi, I'm Kaii!
 
 I'm an 8th-grade student with a focus on web development.
 
