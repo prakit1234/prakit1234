@@ -64,5 +64,6 @@ If you'd like to reach out, you can contact me through:
 
 If you'd like to support my work, you can do so through:
 
-* **PayPal:** \[your\_paypal\_account]
-* **Buy Me a Coffee:** \[your\_buymeacoffee\_account]
+* **PayPal:** \[idonthaveoneyet]
+* **Buy Me a Coffee:** \[sameforhere]
+**Robux?**\[https://www.roblox.com/game-pass/1017325991/paid-confirmation-for-site]
