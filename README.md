@@ -12,7 +12,7 @@ I'm an 8th-grade student with a focus on web development.
 * TypeScript (TS) <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
 * Svelte <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte Badge"/>
 * SvelteKit <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit Badge"/>
-* Vue.js <img src="https://img.shields.io/badge/Vue.js-E34F26?style=for-the-badge&logo=vue5&logoColor=white" alt="vue.js"/>
+* Vue.js <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue.js"/>
 * React <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
 * React.js <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js Badge"/>
 * Next.js <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge"/>
